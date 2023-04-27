@@ -3,5 +3,5 @@ class class001 {
 }
 
 object RunnableScalaClass extends App {
-  println("Hello World")
+  println("Hello nice World")
 }
